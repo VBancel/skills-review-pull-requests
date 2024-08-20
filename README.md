@@ -20,7 +20,8 @@ _Collaborate and work together on GitHub._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Try again_
+Does the change here will be in the pull request ?
 
 <img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
